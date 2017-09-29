@@ -8,4 +8,10 @@ Presentaciones para la Asignatura Composición II en Instituto Profesional Arcos
 
 003 [https://felixpinok.github.io/comiia/003/](https://felixpinok.github.io/comiia/003/)
 
-003 [https://felixpinok.github.io/comiia/004/](https://felixpinok.github.io/comiia/003/)
+004 [https://felixpinok.github.io/comiia/004/](https://felixpinok.github.io/comiia/004/)
+
+005 [https://felixpinok.github.io/comiia/005/](https://felixpinok.github.io/comiia/005/)
+
+006 [https://felixpinok.github.io/comiia/006/](https://felixpinok.github.io/comiia/006/)
+
+007 [https://felixpinok.github.io/comiia/007/](https://felixpinok.github.io/comiia/007/)
